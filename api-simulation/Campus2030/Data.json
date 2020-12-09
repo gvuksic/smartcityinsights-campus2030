@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.058563272266394,
+          59.33137661333872
+        ]
+      },
+      "count-cars": "1",
+      "count-pedestrians": "12",
+      "count-bicycles": "12",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.057522820600475,
+          59.33257987411766
+        ]
+      },
+      "count-cars": "2",
+      "count-pedestrians": "4",
+      "count-bicycles": "4",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.056575082474986,
+          59.333783092302035
+        ]
+      },
+      "count-cars": "3",
+      "count-pedestrians": "4",
+      "count-bicycles": "4",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.055617042877774,
+          59.334823395091846
+        ]
+      },
+      "count-cars": "6",
+      "count-pedestrians": "10",
+      "count-bicycles": "4",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.055163776814958,
+          59.33553267417365
+        ]
+      },
+      "count-cars": "7",
+      "count-pedestrians": "6",
+      "count-bicycles": "6",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05304166747655,
+          59.33611059431821
+        ]
+      },
+      "count-cars": "10",
+      "count-pedestrians": "6",
+      "count-bicycles": "1",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05119284262506,
+          59.336089078571405
+        ]
+      },
+      "count-cars": "9",
+      "count-pedestrians": "8",
+      "count-bicycles": "3",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.050259711371375,
+          59.33703312338051
+        ]
+      },
+      "count-cars": "8",
+      "count-pedestrians": "9",
+      "count-bicycles": "3",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.04934727538791,
+          59.338062465360665
+        ]
+      },
+      "count-cars": "7",
+      "count-pedestrians": "6",
+      "count-bicycles": "3",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.04787777719705,
+          59.339427607612556
+        ]
+      },
+      "count-cars": "5",
+      "count-pedestrians": "10",
+      "count-bicycles": "2",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.045733404497454,
+          59.34158860619458
+        ]
+      },
+      "count-cars": "4",
+      "count-pedestrians": "6",
+      "count-bicycles": "1",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.052222912680257,
+          59.34321018978166
+        ]
+      },
+      "count-cars": "1",
+      "count-pedestrians": "5",
+      "count-bicycles": "0",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0555643836426,
+          59.344030512840355
+        ]
+      },
+      "count-cars": "2",
+      "count-pedestrians": "6",
+      "count-bicycles": "6",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0579409996205,
+          59.344616733924454
+        ]
+      },
+      "count-cars": "3",
+      "count-pedestrians": "11",
+      "count-bicycles": "10",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.062575855949483,
+          59.34575863610752
+        ]
+      },
+      "count-cars": "5",
+      "count-pedestrians": "5",
+      "count-bicycles": "5",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.065247336207477,
+          59.34638222882698
+        ]
+      },
+      "count-cars": "7",
+      "count-pedestrians": "7",
+      "count-bicycles": "6",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.066718430600684,
+          59.34678435684366
+        ]
+      },
+      "count-cars": "7",
+      "count-pedestrians": "9",
+      "count-bicycles": "4",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.068362035893756,
+          59.34622464143308
+        ]
+      },
+      "count-cars": "6",
+      "count-pedestrians": "9",
+      "count-bicycles": "1",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.072016191915257,
+          59.34521409054834
+        ]
+      },
+      "count-cars": "6",
+      "count-pedestrians": "0",
+      "count-bicycles": "1",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07506491397794,
+          59.34438955255364
+        ]
+      },
+      "count-cars": "5",
+      "count-pedestrians": "2",
+      "count-bicycles": "0",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.077000496073005,
+          59.343934597779885
+        ]
+      },
+      "count-cars": "6",
+      "count-pedestrians": "7",
+      "count-bicycles": "6",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.078749622926036,
+          59.343508219259704
+        ]
+      },
+      "count-cars": "8",
+      "count-pedestrians": "1",
+      "count-bicycles": "0",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.076844844766388,
+          59.34118218947835
+        ]
+      },
+      "count-cars": "9",
+      "count-pedestrians": "0",
+      "count-bicycles": "0",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.075333493606752,
+          59.3392833152616
+        ]
+      },
+      "count-cars": "13",
+      "count-pedestrians": "2",
+      "count-bicycles": "0",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.073619343997315,
+          59.33711170763487
+        ]
+      },
+      "count-cars": "9",
+      "count-pedestrians": "6",
+      "count-bicycles": "3",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07232779157666,
+          59.336208067111194
+        ]
+      },
+      "count-cars": "7",
+      "count-pedestrians": "9",
+      "count-bicycles": "11",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06764995386235,
+          59.33602363461376
+        ]
+      },
+      "count-cars": "6",
+      "count-pedestrians": "15",
+      "count-bicycles": "9",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.063536033982814,
+          59.33563284880211
+        ]
+      },
+      "count-cars": "3",
+      "count-pedestrians": "5",
+      "count-bicycles": "5",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.064925397350464,
+          59.3338475320286
+        ]
+      },
+      "count-cars": "1",
+      "count-pedestrians": "12",
+      "count-bicycles": "12",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06523213991215,
+          59.3328904163657
+
+        ]
+      },
+      "count-cars": "1",
+      "count-pedestrians": "12",
+      "count-bicycles": "11",
+      "type": "Feature",
+      "properties": {}
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.062399282136553,
+          59.332227782034636
+        ]
+      },
+      "count-cars": "2",
+      "count-pedestrians": "413",
+      "count-bicycles": "13",
+      "type": "Feature",
+      "properties": {}
+    }
+  ]
+}
